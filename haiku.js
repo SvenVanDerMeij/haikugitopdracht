@@ -14,10 +14,10 @@ function Haiku2(){
     console.log("I'm not a oaf");
 }
 function Haiku3(){
-    console.log("haiku by:","AUTHOR");
-    console.log("REGEL1");
-    console.log("REGEL2");
-    console.log("REGEL3");
+    console.log("haiku by:","Emiel/Ron/Edward");
+    console.log("Milk's gentle embrace");
+    console.log("Lactose whispers its warning");
+    console.log("Digestion's cruel chase");
 }
 
 
